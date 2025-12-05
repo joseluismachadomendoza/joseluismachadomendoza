@@ -9,6 +9,7 @@ Prompt engineering para modelos basados en inteligencia artificial
 ## 🎓 Formación y visión  
 Soy **José Luis Machado**, egresado de la **Maestría en Gestión de Tecnologías de Información**, con pasión por conectar tecnología y personas para crear soluciones digitales de alto impacto.  
 🖼️ _Imagen sugerida: icono de inteligencia artificial conectado a un mapa digital_  
+/Imagenes/Ai-SIG-GIS.png
 
 ---
 
