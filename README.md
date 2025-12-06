@@ -24,7 +24,7 @@ Especialista en el diseño e implementación de **sistemas de información geogr
 - Implementación de sistemas de atención ciudadana  
 - Desarrollo del sistema de búsqueda de domicilios para el **INE** con **IA en lenguaje natural**  
 
-![](/Imagenes2/Geoloc-Mapa_resultado.png)
+![](/Imagenes2/Geoloc-Mapa_resultado2.png)
 
 ---
 
@@ -55,4 +55,4 @@ Creo que la tecnología es una herramienta para fortalecer democracia, mejorar s
 Profesional **curioso, orientado a la innovación** y comprometido a convertir datos en conocimiento relevante.  
 Mi visión: la **IA y los datos geoespaciales** como pilares de un futuro más inteligente, eficiente y humano.  
 
-![](/Imagenes2/The Future_resultado.png)
+![](/Imagenes2/The_Future_resultado.png)
