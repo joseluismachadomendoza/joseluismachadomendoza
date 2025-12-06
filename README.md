@@ -15,14 +15,16 @@ Soy **José Luis Machado**, egresado de la **Maestría en Gestión de Tecnologí
 
 ## 🗺️ Experiencia en GIS/SIG  
 Especialista en el diseño e implementación de **sistemas de información geográfica (GIS/SIG)** capaces de convertir grandes volúmenes de datos geoespaciales en conocimiento estratégico.  
-🖼️ _Icono de capas de mapas y georreferencias_  
+
+![](/Imagenes2/Layers-SIG-GIS_resultado.png)
 
 ---
 
 ## 🏛️ Proyectos de impacto nacional  
 - Implementación de sistemas de atención ciudadana  
 - Desarrollo del sistema de búsqueda de domicilios para el **INE** con **IA en lenguaje natural**  
-🖼️ _Visual: interfaz de búsqueda de direcciones con IA o consulta ciudadana digital_  
+
+![](/Imagenes2/Geoloc-Mapa_resultado.png)
 
 ---
 
@@ -30,23 +32,27 @@ Especialista en el diseño e implementación de **sistemas de información geogr
 - Geoprocesamiento avanzado 🛰️  
 - Automatización de flujos geoespaciales 🤖  
 - Mejora en precisión, eficiencia y escalabilidad  
-🖼️ _Icono de engranajes digitales procesando capas geográficas_  
+
+![](/Imagenes2/Geoprocesamiento_resultado.png)
 
 ---
 
 ## 🤖 Enfoque actual: IA y geo-inteligencia  
 Trabajo con **geo-inteligencia computacional** y **modelos predictivos de Inteligencia Artificial** para anticipar patrones y apoyar decisiones estratégicas.  
-🖼️ _Mapa de calor con predicciones o patrones IA geográficos_  
+
+![](/Imagenes2/MapaCalor-AI_resultado.png)
 
 ---
 
 ## 🌟 Filosofía de trabajo  
 Creo que la tecnología es una herramienta para fortalecer democracia, mejorar servicios y empoderar comunidades.  
-✔️ _Visual: red de nodos humanos conectados por datos geoespaciales_  
+
+![](/Imagenes2/Colabora-GIS_resultado.png)
 
 ---
 
 ## ✨ En resumen  
 Profesional **curioso, orientado a la innovación** y comprometido a convertir datos en conocimiento relevante.  
 Mi visión: la **IA y los datos geoespaciales** como pilares de un futuro más inteligente, eficiente y humano.  
-🖼️ _Icono de brújula digital apuntando hacia el futuro, rodeado de símbolos tech y geográficos_  
+
+![](/Imagenes2/The Future_resultado.png)
